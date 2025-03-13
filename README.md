@@ -1,21 +1,11 @@
 # Academic Project Page Template
 This is an academic paper project page template.
 
+## FBK Style guide
+guide: http://www.fbk.eu/wp-content/uploads/2020/07/Linee-Guida-Kit.pdf
 
-Example project pages built using this template are:
-- https://horwitz.ai/probex
-- https://vision.huji.ac.il/probegen
-- https://horwitz.ai/mother
-- https://horwitz.ai/spectral_detuning
-- https://vision.huji.ac.il/ladeda
-- https://vision.huji.ac.il/dsire
-- https://horwitz.ai/podd
-- https://dreamix-video-editing.github.io
-- https://horwitz.ai/conffusion
-- https://horwitz.ai/3d_ads/
-- https://vision.huji.ac.il/ssrl_ad
-- https://vision.huji.ac.il/deepsim
-
+BLUE: #0068b4
+GRAY: #a5a5a5
 
 
 ## Start using the template
